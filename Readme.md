@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Сергей Куницын](https://up.htmlacademy.ru/htmlcss/25/user/1071263).
-* Наставник: [Вадим Новаш] (https://htmlacademy.ru/profile/stakeout).
+* Наставник: <a href="https://htmlacademy.ru/profile/stakeout">Вадим Новаш</a>.
 
 ---
 
